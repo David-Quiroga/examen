@@ -59,3 +59,6 @@ if __name__ == "__main__":
     print(vars(emp2))
     print(vars(sec2))
     
+    print("**METODO NORMAL")
+    print(pas1.otropasante(pas2))
+    
